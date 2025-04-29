@@ -1,4 +1,4 @@
-# Experiment No: 8b – Display Person Details Using Multilevel Inheritance
+# Experiment No: 5d – Display Person Details Using Multilevel Inheritance
 
 ## AIM  
 To write a Python program to get the name, age, and ID of a person and display the details using multilevel inheritance.
