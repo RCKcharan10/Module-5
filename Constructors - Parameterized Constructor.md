@@ -1,4 +1,4 @@
-# Experiment No: 6a – SEB-Employee Class with Parameterized Constructor
+# Experiment No: 5a-Employee Class with Parameterized Constructor
 
 ## AIM  
 To create a Python class `employee` with parameterized constructors with the parameters as `id` and `name`, and print the details of the employee using the `display(self)` method.
